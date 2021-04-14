@@ -7,6 +7,7 @@
 - [Introducción: fundamentos de la visualización de datos](#introducción-fundamentos-de-la-visualización-de-datos)
   - [¿Qué es la visualización de datos?](#qué-es-la-visualización-de-datos)
   - [Retos para aprender visualización de datos](#retos-para-aprender-visualización-de-datos)
+  - [Importancia de la visualización de datos: disminuye la carga cognitiva](#importancia-de-la-visualización-de-datos-disminuye-la-carga-cognitiva)
 - [Elige la gráfica correcta para tus reportes](#elige-la-gráfica-correcta-para-tus-reportes)
 - [Data Visualization para Business Intelligence](#data-visualization-para-business-intelligence)
 - [Flujo de trabajo y etapas del Business Intelligence](#flujo-de-trabajo-y-etapas-del-business-intelligence)
@@ -44,6 +45,36 @@ Reto: Importancia de Florence Nightingale en Data Viz.
 
 Hoja de excel con los temas estructurados y preguntas a responder acerca del curso.
 [Retos para aprender visualización de datos](retos-del-curso-de-principios-de-dataviz-para-bi.xlsx)
+
+## Importancia de la visualización de datos: disminuye la carga cognitiva
+
+**¿Qué es la carga cognitiva?**
+
+Es el esfuerzo que tenemos que hacer para poder retener la información.
+
+- A **mayor** carga conginitva **mayor** esfuerzo para retener la información
+- A **menor** carga conginitva **menor** esfuerzo para retener la información
+
+Es mucho mas rapido y mejor si utilizamos la percepcion visual para disminuir la carga cognitiva, Nos ayuda a entender nuestra información y podremos transmitir nuestra idea de una forma directa, clara, eficiente y visualmente elegante. Lo mejor es que van a retener lo que le queremos transmitir.
+
+**¿Es normal cambiar de hipótesis o suposiciones después de trabajar con nuestra fuente de datos?**
+
+Si, es normal. Veamos la siguiente afirmación
+
+![](https://imgur.com/aYFk8Hx.png)
+
+> "Las visualizaciones te dan respuestas a preguntas que no sabias que tenias" - Ben Shneiderman.
+
+Cuando trabajamos con visualizaciones de datos es probable que empecemos bajo una hipotesis. Que tengamos teorias y luego trabajando con la informacion que tenemos en nuestras DB intentaremos realizar una visualización para poder entregar a cierta audiencia.
+
+Pero cuando trabajamos con ellas nos podremos dar cuenta que lo que creiamos, nuestra hipotesis, es incorrecto y tengamos que pivotar, cambiar de camino. Esto es NORMAL!
+
+> La cumunicacion de muy importante ya que Cuando hacemos una visualización de datos asumimos un rol de comunicador importante porque existe una audiencia que va a recibir de forma directa o indirecta nuestro mensaje. No se deben permitir sesgos personales y dejar que los datos hablen con la verdad.
+
+**¿Qué grandes visualizaciones de datos han impactado en la historia de la humanidad?**
+
+- [The beauty of data visualization - David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+- [5 Diagramas que cambiaron el MUNDO](https://www.youtube.com/watch?v=bFRyGrZUoUs)
 
 # Elige la gráfica correcta para tus reportes
 
