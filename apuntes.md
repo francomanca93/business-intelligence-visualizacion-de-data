@@ -8,6 +8,7 @@
   - [¿Qué es la visualización de datos?](#qué-es-la-visualización-de-datos)
   - [Retos para aprender visualización de datos](#retos-para-aprender-visualización-de-datos)
   - [Importancia de la visualización de datos: disminuye la carga cognitiva](#importancia-de-la-visualización-de-datos-disminuye-la-carga-cognitiva)
+  - [Herramientas para visualizar datos](#herramientas-para-visualizar-datos)
 - [Elige la gráfica correcta para tus reportes](#elige-la-gráfica-correcta-para-tus-reportes)
 - [Data Visualization para Business Intelligence](#data-visualization-para-business-intelligence)
 - [Flujo de trabajo y etapas del Business Intelligence](#flujo-de-trabajo-y-etapas-del-business-intelligence)
@@ -75,6 +76,22 @@ Pero cuando trabajamos con ellas nos podremos dar cuenta que lo que creiamos, nu
 
 - [The beauty of data visualization - David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
 - [5 Diagramas que cambiaron el MUNDO](https://www.youtube.com/watch?v=bFRyGrZUoUs)
+
+## Herramientas para visualizar datos
+
+- [Excel](https://www.microsoft.com/es-es/microsoft-365/excel): es una hoja de cálculo desarrollada por Microsoft para Windows, macOS, Android e iOS. Cuenta con cálculo, herramientas gráficas, tablas calculares y un lenguaje de programación macro llamado Visual Basic para aplicaciones.
+
+- [Power BI](https://powerbi.microsoft.com/es-es/): es un servicio de análisis empresarial de Microsoft, su objetivo es proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial con una interfaz lo suficientemente simple como para que los usuarios finales creen sus propios informes y paneles.
+
+- [Tableau](https://www.tableau.com/): es la plataforma de análisis integral más eficaz, segura y flexible para sus datos. Potencia a las personas con el poder de los datos. Tableau fue diseñado para el individuo, pero se adapta a toda la empresa. Es la única plataforma de inteligencia de negocios que transforma sus datos para motivar acciones a partir de la información.
+
+- [Google Analytics](https://analytics.google.com/analytics/web/provision/#/provision): es una herramienta de analítica web de la empresa Google lanzada el 14 de noviembre de 2005. Ofrece información agrupada del tráfico que llega a los sitios web según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio web
+
+- [Google Data Studio](https://marketingplatform.google.com/intl/es/about/data-studio/): es una herramienta gratuita que convierte sus datos en informes y paneles claros, totalmente personalizables y fáciles de consultar y compartir.
+
+- [Cluvio](https://www.cluvio.com/): Usa SQL y R para analizar tus datos y crear excelentes visualizaciones, dashboards interactivos para toda una compañia en algunos minutos
+
+- R y ggplot2, Python y sus librerias para data viz bokeh y mathplotlib.
 
 # Elige la gráfica correcta para tus reportes
 
